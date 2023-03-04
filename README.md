@@ -23,3 +23,5 @@ Example
 python image_resizer.py myimage.jpg --size 800x600
 
 This will resize myimage.jpg to a size of 800x600 pixels and save the resized image as myimage_resized.jpg.
+
+Author - BaraniVA
